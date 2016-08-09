@@ -1,29 +1,4 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Main Class File:  RecipeWrangler.java
-// File:             Recipe.java
-// Semester:         CS 302 Fall 2015
-//
-// Author:           Morgan O-Leary
-// CS Login:         o-leary
-// Lecturer's Name:  Jim Williams
-// Lab Section:      343
-//
-//////////////////// PAIR PROGRAMMERS COMPLETE THIS SECTION ////////////////////
-//
-// Pair Partner:     Taylor Ross	
-// Email:            Twross2@wisc.edu	
-// CS Login:         tross
-// Lecturer's Name:  Deb Deppeler
-// Lab Section:      325
-//
-//////////////////// STUDENTS WHO GET HELP FROM OTHER THAN THEIR PARTNER //////
-//                  
-// Persons:          
-//
-// Online sources:   
 
-//////////////////////////// 80 columns wide //////////////////////////////////
 
 /**
  * This class represents one recipe. It holds the name of the recipe, the

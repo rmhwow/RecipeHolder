@@ -2,54 +2,7 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.*;
 import java.util.*;
-///////////////////////////////////////////////////////////////////////////////
-//ALL STUDENTS COMPLETE THESE SECTIONS
-//Title:            (program's title)
-//Files:            (list of source files)
-//Semester:         (CS 302) Fall 2015
-//
-//Author:           (Morgan O'Leary)
-//Email:            (oleary4@wisc.edu)
-//CS Login:         (o-leary)
-//Lecturer's Name:  (Jim Williams)
-//Lab Section:      (4)
-//
-////////////////////PAIR PROGRAMMERS COMPLETE THIS SECTION ////////////////////
-//
-//CHECK ASSIGNMENT PAGE TO see IF PAIR-PROGRAMMING IS ALLOWED
-//If pair programming is allowed:
-//1. Read PAIR-PROGRAMMING policy (in cs302 policy) 
-//2. choose a partner wisely
-//3. REGISTER THE TEAM BEFORE YOU WORK TOGETHER 
-//a. one partner creates the team
-//b. the other partner must join the team
-//4. complete this section for each program file.
-//
-//Pair Partner:     Taylor Ross	
-//Email:            Twross2@wisc.edu
-//CS Login:         tross
-//Lecturer's Name:  Deb Deppeler
-//Lab Section:      325
-//
-////////////////////STUDENTS WHO GET HELP FROM OTHER THAN THEIR PARTNER //////
-//must fully acknowledge and credit those sources of help.
-//Instructors and TAs do not have to be credited here,
-//but tutors, roommates, relatives, strangers, etc do.
-//
-//Persons: 
-//
-//Online sources:   
-////////////////////////////80 columns wide //////////////////////////////////
-/**
- * (This class creates the Recipe Wrangler Menu and gives certain instructions 
- * based on the user input provided. The program can display sorted recipes, 
- * add, display, and edit a single recipe, load recipes from a file and 
- * save recipes from a file.)
- *
- * <p>Bugs: (No known bugs)
- *
- * @authors (Morgan O'Leary and Taylor Ross)
- */
+
 public class RecipeWrangler 
 {
 	//instantiate a new object called ourList that will later contain Objects
